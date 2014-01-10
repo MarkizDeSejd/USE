@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  USE
+
+  Created by jakub on 09/01/2014.
+  Copyright (c) 2014 jakub. All rights reserved.
+*/
+"SELECT_QUALITY_KEY" = "Select quality";
+
+"SELECT_POSITION_KEY" = "Select position";
+
+"GENERATE_BUTTON_TITLE_KEY" = "Generate";
